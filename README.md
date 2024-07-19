@@ -1,7 +1,7 @@
 ## Project1: Sale Prediction
 - Predict Alchohol Sales Time Series Data using LSTM Model in PyTorch.
 ![image](https://github.com/user-attachments/assets/9075e26b-34ff-4b14-b72f-90f324fa24c7)
-![alt text](output.png)
+![Project1_Predicting_Sales_Time_Series_Data/output.png](Project1_Predicting_Sales_Time_Series_Data/output.png)
 ## Project2: Natural Language Inference (SNLI) with GloVe vectors, LSTMs, and torchtext
 - In this project we implement SNLI
 ## Project3: Time Sequence Prediction
